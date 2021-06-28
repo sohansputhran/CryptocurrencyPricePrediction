@@ -1,4 +1,7 @@
-# CryptocurrencyPricePrediction
+
+# Dogecoin Price Prediction
+
+This program attempts to predict the future price of Dogecoin
 
 ## Acknowledgements
 
